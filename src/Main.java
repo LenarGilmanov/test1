@@ -1367,7 +1367,7 @@ class Main {
         if (inputPassword.equals(password)) {
             System.out.println(login + " " + password);
         } else {
-            System.out.println("Incorrect password");
+            System.out.println("Incorrect passwor");
         }
 //        if ((password.length() < 8 || password.length() > 15) || )
     }
@@ -1376,5 +1376,5 @@ class Main {
 //adfssaf
 
 
-//asdfasf
+//asdfasf  asdfssdasd
 //sadfasdf
