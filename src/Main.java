@@ -807,6 +807,7 @@ fad
 
 
 import com.sun.source.tree.IfTree;
+import org.w3c.dom.ls.LSOutput;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -1367,14 +1368,14 @@ class Main {
         if (inputPassword.equals(password)) {
             System.out.println(login + " " + password);
         } else {
-            System.out.println("Incorrect passw");
+            System.out.println("Incorrвыфаassw");
         }
 //        if ((password.length() < 8 || password.length() > 15) || )
     }
 }
 
 //adfssaf
-//adsfasdfsadfasdfsdafasfsadfsadfsadfsadfsafdas
+//adsfasdfsadfasdfsdafaвыафвыавыфвавыфsfsadfsadfsadfsadfsafdas
 
 //asdf
 //asdfasf  asdfssdasd
